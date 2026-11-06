@@ -159,7 +159,7 @@
     <section class="relative min-h-screen flex items-center justify-center text-center px-4 overflow-hidden">
         <!-- 背景圖片及遮罩 -->
         <div class="absolute inset-0 bg-cover bg-center bg-no-repeat transform scale-105 transition-transform duration-10000"
-             style="background-image: url('https://i.imghippo.com/files/wZi6083sMw.jpg');">
+             style="background-image: url('https://i.imghippo.com/files/XAn7016zc.jpg');">
             <div class="absolute inset-0 bg-gradient-to-b from-black/45 via-black/30 to-black/65"></div>
         </div>
 
@@ -243,8 +243,10 @@
                     “You’re the energy gel for my marathon.”
                 </p>
                 <p>
-                    在這條名為人生的馬拉松賽道上，我們找到了屬於彼此的最佳節奏；<br>
-                    誠摯邀請您前來分享喜悅，見證我們邁入人生下一階段的幸福時刻。
+                    在這條名為人生的馬拉松賽道上，<br>
+                    我們找到了屬於彼此的最佳節奏；<br>
+                    誠摯邀請您前來一同分享喜悅，<br>
+                    見證我們邁入下個階段的幸福時刻。
                 </p>
             </div>
         </div>
@@ -264,7 +266,7 @@
                     </div>
                     <div class="w-8 h-[1px] bg-morandi-warm/20 mx-auto"></div>
                     <p class="text-sm text-morandi-subtext leading-relaxed font-light">
-                        強大堅實的後盾，隨時準備好滿滿無限能量。
+                        溫暖堅實伴為引，奔放無限能量的美好起點。
                     </p>
                 </div>
 
